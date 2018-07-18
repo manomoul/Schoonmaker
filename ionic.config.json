@@ -1,0 +1,8 @@
+{
+  "name": "Schoonmaker",
+  "app_id": "fae8e83b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
